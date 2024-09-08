@@ -1,5 +1,4 @@
-## Hi there 👋 
-## I am Hien, a
+## Hi there 👋 I am Hien, a
 # Data Analyst & Business Intellingence Developer
 
 <!--
