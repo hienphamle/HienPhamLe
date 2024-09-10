@@ -4,7 +4,7 @@ Hi 👋 My name is Hien
 Data Analyst | Business Intelligence Developer
 ----------------------------------------------
 
-I had 5 years experience doing business before becoming a data analyst. I could be sure that I will understand what you need and help you get the right solution.
+I have 5 years of experience in business before becoming a data analyst. I understand the challenges businesses face when monitoring performance to make informed decisions. Rest assured, I am equipped to provide you with the best solutions for your business data analysis needs.
 
 *   🌍  I'm based in Vietnam
 *   🖥️  See my portfolio at [Hien's Portfolio](https://mavenanalytics.io/profile/Hien-Pham-Le/206809735)
