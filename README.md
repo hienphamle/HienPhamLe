@@ -1,7 +1,7 @@
 Hi 👋 My name is Hien
 =====================
 
-Data Analyst
+I am a Data Analyst
 ----------------------------------------------
 
 I have 5 years of experience in business before becoming a data analyst. I understand the challenges businesses face when monitoring performance to make informed decisions. Rest assured, I am equipped to provide you with the best solutions for your business data analysis needs.
