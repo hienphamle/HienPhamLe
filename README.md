@@ -1,9 +1,6 @@
 Hi 👋 My name is Hien
 =====================
 
-I am a Data Analyst
-----------------------------------------------
-
 I am a Microsoft-certified Data Analyst with over 5 years of experience in business before transitioning into data analysis. I have a deep understanding of the challenges that businesses can face. My passion is to help businesses improve efficiency and manage operations more easily through data analysis and visualization.
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀: 
