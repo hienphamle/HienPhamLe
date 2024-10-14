@@ -1,13 +1,14 @@
 Hi 👋 My name is Hien
 =====================
 
-I am a Microsoft-certified Data Analyst with over 5 years of experience in business before transitioning into data analysis. I have a deep understanding of the challenges that businesses can face. My passion is to help businesses improve efficiency and manage operations more easily through data analysis and visualization.
+The work that I love doing is bringing data to life. By doing so, I turn data into a trusted companion that always provides valuable and reliable insights. 
+I used to run a business for over 5 years and have firsthand experience with the challenges businesses face. Now, as a Data Analyst, I am able to help businesses manage, operate, and make decisions in the most efficient and seamless way possible. To achieve this, I continually develop my technical skills and critical thinking, while always being eager to learn new knowledge and technologies to consistently improve business outcomes.
 
-𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀: 
-- Data analysis tools (Power BI, SQL, Python)
-- Blingual (English, Vietnamese)
+𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
+- Data analysis tools (SQL, Python, Power BI)
+- Bilingual (English, Vietnamese)
 
-I am excited about new opportunities and challenges where I can leverage my analytics skill and mindset.
+I aspire to join a dynamic work environment where creativity and continuous improvement are highly valued and encouraged.
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [lehienpham25@gmail.com](mailto:lehienpham25@gmail.com)
