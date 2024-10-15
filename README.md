@@ -2,7 +2,7 @@ Hi 👋 My name is Hien
 =====================
 
 The work that I love doing is bringing data to life. By doing so, I turn data into a trusted companion that always provides valuable and reliable insights.   
-I used to run a business for over 5 years and have firsthand experience with the challenges businesses face. Now, as a Data Analyst, I am able to help businesses manage, operate, and make decisions in the most efficient and seamless way possible. To achieve this, I continually develop my technical skills and critical thinking, while always being eager to learn new knowledge and technologies to consistently improve business outcomes.
+I have held the role of Operations Manager for over 5 years and have firsthand experience with the challenges businesses face. Now, as a Data Analyst, I am able to help businesses manage, operate, and make decisions in the most efficient and seamless way possible. To achieve this, I continually develop my technical skills and critical thinking, while always being eager to learn new knowledge and technologies to consistently improve business outcomes.
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - Data analysis tools (SQL, Python, Power BI)
