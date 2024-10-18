@@ -1,15 +1,19 @@
 Hi 👋 My name is Hien
 =====================
 
-The work that I love doing is bringing data to life. By doing so, I turn data into a trusted companion that always provides valuable and reliable insights.   
-I have held the role of Operations Manager for over 5 years and have firsthand experience with the challenges businesses face. Now, as a Data Analyst, I am able to help businesses manage, operate, and make decisions in the most efficient and seamless way possible. To achieve this, I continually develop my technical skills and critical thinking, while always being eager to learn new knowledge and technologies to consistently improve business outcomes.
+As someone passionate about continuous improvement, data analysis satisfies my curiosity and provides me with the immense power to solve problems effectively.
+
+I spent over five years in operations management, gaining deep insights into business systems and the daily challenges companies face. Now, as a Data Analyst, I am confident in my ability to help businesses optimize their management and operations while consistently making data-driven decisions.
+
+To excel in this, I continuously develop my skills and mindset, staying open to learning new knowledge and technologies.
+
+Let’s bring data to life and harness its power to optimize work efficiency together!"
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - Data analysis tools (SQL, Python, Power BI)
 - Bilingual (English, Vietnamese)
 
 I aspire to join a dynamic work environment where creativity and continuous improvement are highly valued and encouraged.
-
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [lehienpham25@gmail.com](mailto:lehienpham25@gmail.com)
 
