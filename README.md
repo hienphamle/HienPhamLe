@@ -1,13 +1,12 @@
 Hi 👋 My name is Hien
 =====================
 
-As someone passionate about continuous improvement, data analysis satisfies my curiosity and provides me with the immense power to solve problems effectively.
+As a passionate advocate for continuous improvement with a curious mindset, data analysis not only satisfies my enthusiasm but also equips me with the power to solve complex business challenges.
 
-I spent over five years in operations management, gaining deep insights into business systems and the daily challenges companies face. Now, as a Data Analyst, I am confident in my ability to help businesses optimize their management and operations while consistently making data-driven decisions.
+With over 5 years of experience in operations management, I have developed strong business acumen and deep insights into how organizations function. My problem-solving skills and ability to collaborate with cross-functional teams have been key in evaluating and enhancing performance.
 
-To excel in this, I continuously develop my skills and mindset, staying open to learning new knowledge and technologies.
+Now, as a Data Analyst, I am eager to leverage my expertise to help organizations optimize operations, improve decision-making, and achieve business goals through data-driven strategies.
 
-Let’s bring data to life and harness its power to optimize work efficiency together!"
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - Data analysis tools (SQL, Python, Power BI)
