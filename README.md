@@ -13,6 +13,7 @@ Now, as a Data Analyst, I am eager to leverage my expertise to help organization
 - Bilingual (English, Vietnamese)
 
 I aspire to join a dynamic work environment where creativity and continuous improvement are highly valued and encouraged.
+
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [lehienpham25@gmail.com](mailto:lehienpham25@gmail.com)
 
