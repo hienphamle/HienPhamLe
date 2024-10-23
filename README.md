@@ -1,8 +1,8 @@
 Hi 👋 My name is Hien
 =====================
 
-I am a Data Analyst with **5+ years of experience** in operations management and a passion for addressing complex
-business challenges through data. With a **strong business acumen**, I am **excel in translating data into actionable
+I am a Data Analyst with **5+ years of experience** in operations management and a **passion for addressing complex
+business challenges through data**. With a strong business acumen, **I thrive at translating data into actionable
 insights**, improve decision-making, optimize operations, and drive performance improvements.
 
 Hard Skills:
