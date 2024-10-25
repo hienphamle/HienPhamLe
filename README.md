@@ -1,7 +1,7 @@
 Hi 👋 My name is Hien
 =====================
 
-I am a Data Analyst with **over 5 years of experience in business operations**, **sharp analytical thinking**, and **excellent communication skills**. With **strong technical data analysis proficiency**, I thrive at transforming raw data into actionable insights that enable businesses to continuously improve performance.
+I am a Data Analyst with **over 5 years of experience in business operations**, **sharp analytical thinking**, and **excellent communication skills**. With **solid technical data analysis expertise**, I thrive at transforming raw data into actionable insights that help businesses continuously improve performance.
 
 Hard Skills:
 - Data analysis tools (**SQL, Python, Power BI**)
