@@ -3,7 +3,7 @@ Hi 👋 My name is Hien
 
 With a background in Financial Management and over 5 years of experience in business operations, I possess a **deep understanding of finance, marketing, and sales**, along with **strong communication and problem-solving skills**. **Proficient in SQL, Python, and Power BI**, I have successfully completed several end-to-end data analytics projects. This **blend of technical expertise, soft skills, and business knowledge** enables me to thrive at transforming raw data into actionable insights that drive business performance.
 
-I aspire to join a dynamic work environment where creativity and continuous improvement are highly valued and encouraged.
+Seeking a dynamic, growth-oriented environment where I can continually learn, apply my skills, and contribute to impactful data-driven decisions while pursuing continuous improvement in data analytics.
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [lehienpham25@gmail.com](mailto:lehienpham25@gmail.com)
