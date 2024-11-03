@@ -1,7 +1,7 @@
 Hi 👋 My name is Hien
 =====================
 
-With a background in Financial Management and over 5 years of experience in business operations, I possess a **deep understanding of finance, marketing, and sales**, along with **strong communication and problem-solving skills**. **Proficient in SQL, Python, and Power BI**, I have successfully completed several end-to-end data analytics projects. This **blend of technical expertise, soft skills, and business knowledge** enables me to thrive at transforming raw data into actionable insights that drive business performance.
+Data Analyst with a background in financial management, over 5 years of experience in business operations, and **solid expertise in SQL, Python, and Power BI**. With a **deep understanding of finance, marketing, and sales**, combined with **strong communication and problem-solving skills**, I excel at transforming raw data into actionable insights that drive business performance.
 
 Seeking to join a company at the forefront of technology innovation, where I can apply my data analytics skills and pursue continuous improvement to drive impactful, innovative solutions.
 
