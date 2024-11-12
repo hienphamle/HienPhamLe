@@ -2,6 +2,7 @@ Hi 👋 My name is Hien
 =====================
 
 As a detail-oriented Data Analyst with excellent organizational and communication skills, I have the ability to transform complex data into clear, easy-to-understand insights that enable teams to make quick and accurate decisions. With a background in financial management, over 5 years of experience in business operations, and 1 year of hands-on experience with SQL, Python, and Power BI, I possess not only advanced data analysis skills but also a strong understanding of business needs, allowing me to deliver clear and effective solutions.
+
 With strong self-learning abilities and adaptability, I am ready to take on challenges at work and strive to deliver exceptional results.
 
 *   🌍  I'm based in Vietnam
